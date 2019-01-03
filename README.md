@@ -1,2 +1,2 @@
 # todolist-practice-jQuery-vanilla
-使用 jQuery &amp; Bootstrap
+使用 Vanilla, jQuery &amp; Bootstrap
