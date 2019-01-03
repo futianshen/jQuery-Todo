@@ -1,0 +1,67 @@
+body {
+  background: #dbe2ef;
+}
+p {
+  margin: 0;
+}
+.card {
+  margin: 75px auto;
+  padding: 0;
+}
+.card-header {
+  padding: 0;
+}
+.input {
+  margin: 150px auto 0px;
+  padding: 0;
+}
+.input__box {
+  outline-color: #000;
+}
+.filters {
+  padding: 20px;
+}
+.progress {
+  margin: 0 auto;
+  padding: 0;
+  height: 7px;
+  background: rgba(255,255,255,0);
+  transition: 1s;
+}
+.todo__done {
+  background-color: #daeacd;
+}
+.todo__modify {
+  border: 0px;
+  outline: rgba(255,255,255,0);
+  background: rgba(255,255,255,0);
+}
+.list {
+  margin: 0 auto;
+  padding: 20px;
+}
+.list__todo {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.list__checkbox {
+  margin: 3px 0px;
+}
+.list__content {
+  width: 80%;
+  margin: 0;
+}
+.list__keyword {
+  outline: rgba(255,255,255,0);
+  border: 0px;
+}
+.list__buttons {
+  display: inline-block;
+}
+.list__button {
+  margin-right: 5px;
+}
+.list p {
+  margin-left: 15px;
+}
